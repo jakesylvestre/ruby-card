@@ -1,2 +1,0 @@
-q1	<img src="a.png">
-q2	<img src="b.png">
